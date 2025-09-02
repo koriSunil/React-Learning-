@@ -1,3 +1,4 @@
 # React-Learning-
 React learning and build projects
-Author :-  Sunil Kori
+<br>
+Author :-  Sunil Kori this is a JS developer
